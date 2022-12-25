@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\perfect numbers\bin\Debug\net6.0\perfect numbers.exe
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\perfect numbers\bin\Debug\net6.0\perfect numbers.deps.json
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\perfect numbers\bin\Debug\net6.0\perfect numbers.runtimeconfig.json
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\perfect numbers\bin\Debug\net6.0\perfect numbers.dll
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\perfect numbers\bin\Debug\net6.0\perfect numbers.pdb
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\perfect numbers\obj\Debug\net6.0\perfect numbers.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\perfect numbers\obj\Debug\net6.0\perfect numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\perfect numbers\obj\Debug\net6.0\perfect numbers.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\perfect numbers\obj\Debug\net6.0\perfect numbers.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\perfect numbers\obj\Debug\net6.0\perfect numbers.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\perfect numbers\obj\Debug\net6.0\perfect numbers.dll
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\perfect numbers\obj\Debug\net6.0\refint\perfect numbers.dll
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\perfect numbers\obj\Debug\net6.0\perfect numbers.pdb
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\perfect numbers\obj\Debug\net6.0\perfect numbers.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Pictures\Screenshots\sec 3 prop 2\sec 3 prop 2\bin\perfect numbers\obj\Debug\net6.0\ref\perfect numbers.dll
